@@ -26,12 +26,18 @@
 1. [Data Center Workload Monitoring, Analysis, and Emulation](http://issg.cs.duke.edu/publications/caecw05.pdf)\
 **MLA:** Moore, Justin, et al. "Data center workload monitoring, analysis, and emulation." Eighth workshop on computer architecture evaluation using commercial workloads. 2005.
 
-## Control methods
+## Методи управління
 1. [Review of Control Techniques for HVAC Systems—Nonlinearity Approaches Based on Fuzzy Cognitive Maps](https://www.researchgate.net/figure/Advantages-and-disadvantages-of-fuzzy-logic-control-techniques_tbl7_323441631)\
 **MLA:** Behrooz, Farinaz, et al. "Review of control techniques for HVAC systems—Nonlinearity approaches based on Fuzzy cognitive maps." Energies 11.3 (2018): 495.\
 **google search:** pros and cons of fuzzy logic control
 2. [Assessment of benefits and drawbacks of using fuzzy logic, especially in fire control systems](https://apps.dtic.mil/dtic/tr/fulltext/u2/a285428.pdf)\
 **MLA:** De Reus, N. M. Assessment of benefits and drawbacks of using fuzzy logic, especially in fire control systems. No. FEL-93-A158. FYSISCH EN ELEKTRONISCH LAB TNO THE HAGUE (NETHERLANDS), 1994.
+
+3. [Dynamic Load Balancing Strategy for Scalable Parallel Systems](https://www.sciencedirect.com/science/article/pii/S0927545298800981)\
+**MLA:** Cortés, Ana, et al. "Dynamic load balancing strategy for scalable parallel systems." Advances in Parallel Computing. Vol. 12. North-Holland, 1998. 735-738.
+
+4. [Adaptive Workload Forecasting in Cloud Data Centers](https://link.springer.com/article/10.1007/s10723-019-09501-2)\
+**MLA:** Zharikov, Eduard, Sergii Telenyk, and Petro Bidyuk. "Adaptive workload forecasting in cloud data centers." Journal of Grid Computing 18.1 (2020): 149-168.
 
 ## Функція граничної корисності
 1. [Economics Utility Functions](http://www.macs.hw.ac.uk/macshome/ams/msc_actsci/utility_final.pdf)\
