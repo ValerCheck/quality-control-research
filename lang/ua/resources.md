@@ -22,6 +22,8 @@
 [QoS. ITU-T Recommendation E.800 (2008)](https://www.itu.int/rec/T-REC-E.800-200809-I/en)\
 **MLA:** Recommendation, I. T. U. T. "E. 800, Definitions of terms related to quality of service." International Telecommunication Union’s Telecommunication Standardization Sector (ITU-T) Std (2008).
 
+2. [Quality of Service: Wikipedia](https://en.wikipedia.org/wiki/Quality_of_service)
+
 ## Управління навантаженням дата центрів
 1. [Data Center Workload Monitoring, Analysis, and Emulation](http://issg.cs.duke.edu/publications/caecw05.pdf)\
 **MLA:** Moore, Justin, et al. "Data center workload monitoring, analysis, and emulation." Eighth workshop on computer architecture evaluation using commercial workloads. 2005.
@@ -42,6 +44,8 @@
 ## Функція граничної корисності
 1. [Economics Utility Functions](http://www.macs.hw.ac.uk/macshome/ams/msc_actsci/utility_final.pdf)\
 **MLA:** Johnson, T. C. "Utility functions." C2922 economics, Heriot Watt University, Edinburgh (2007).
+2. [Chapter 1 - Basic Methods from Neoclassical Economics](https://www.sciencedirect.com/science/article/pii/B9780124160088000012)\
+**MLA:** Caplin, Andrew, and Paul W. Glimcher. "Basic methods from neoclassical economics." Neuroeconomics. Academic Press, 2014. 3-17.
 
 
 ## Наукове пізнання
